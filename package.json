@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"dev": "whop-proxy --command 'next dev --turbopack'",
+		"dev": "whop-proxy --command \"npx next dev --turbopack\"",
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint"
